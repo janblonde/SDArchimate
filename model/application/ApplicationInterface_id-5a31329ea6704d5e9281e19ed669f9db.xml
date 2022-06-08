@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Initieer hulpvraag"
-    id="id-5a31329ea6704d5e9281e19ed669f9db"/>
+    name="Initieer hulpvraag &lt;&lt;TARGET>>"
+    id="id-5a31329ea6704d5e9281e19ed669f9db">
+  <properties
+      key="state"
+      value="TARGET"/>
+</archimate:ApplicationInterface>
