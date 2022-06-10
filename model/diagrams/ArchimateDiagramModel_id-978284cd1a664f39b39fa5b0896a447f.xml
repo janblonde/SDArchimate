@@ -7,7 +7,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-34c5bfec34304cdbab9baa5d07a889ac"
       name="Backstage - CURRENT"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="0"/>
     <bounds
         x="24"
         y="1284"
@@ -320,7 +324,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-89321f1a65b5495aa07386942bf05a53"
       name="Technology landscape - CURRENT"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="0"/>
     <bounds
         x="24"
         y="1776"
@@ -845,7 +853,11 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-bc8ae09562d9402db3f2a0f0ba1a5756"
       name="Capabilities"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="0"/>
     <bounds
         x="24"
         y="756"
@@ -1271,6 +1283,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10ec05a6371f4b5d8efe6420d5aa0bf2"
       targetConnections="id-2ca8cbc678bd485583c9b4b1b75ddebb">
+    <features
+        name="gradient"
+        value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3fb4ef7a99224978b7133e1b0c25fa05"
@@ -1405,6 +1420,10 @@
           id="id-33430482bfbf4e0c80d5e15ac5d8559b"
           source="id-3f9d230f1f914c2c8815d5d10f61f4fb"
           target="id-34b1ce81f60e442f8a054d0db7120a3d">
+        <bendpoints
+            startX="132"
+            startY="10"
+            endY="-68"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-aacbd5a997064321861524b30f174099.xml#id-aacbd5a997064321861524b30f174099"/>
@@ -1485,6 +1504,10 @@
           id="id-c1424f9a67ea4d178f4b92a6b2397627"
           source="id-8bf44a0d3d0d49b2af9a12616db6d47a"
           target="id-34b1ce81f60e442f8a054d0db7120a3d">
+        <bendpoints
+            startX="132"
+            startY="-2"
+            endY="100"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-5663dc2759c4425ab55e048fded863f9.xml#id-5663dc2759c4425ab55e048fded863f9"/>
@@ -1640,6 +1663,10 @@
           id="id-5439823505bc480a904820248fbc0574"
           source="id-8b8e4fbb37da4dff8b42b23c5067a002"
           target="id-3f9d230f1f914c2c8815d5d10f61f4fb">
+        <bendpoints
+            startY="-88"
+            endX="-172"
+            endY="6"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-2c56b9dd348547d1a40a38740aa6e5c5.xml#id-2c56b9dd348547d1a40a38740aa6e5c5"/>
@@ -1658,6 +1685,10 @@
           id="id-319e51cb35f44b85ba6c237793675e79"
           source="id-8b8e4fbb37da4dff8b42b23c5067a002"
           target="id-8bf44a0d3d0d49b2af9a12616db6d47a">
+        <bendpoints
+            startY="89"
+            endX="-172"
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-ad6ed57d5b6943ef83e59afa1fa76311.xml#id-ad6ed57d5b6943ef83e59afa1fa76311"/>
@@ -1780,7 +1811,7 @@
         content="Veronderstelt itsme/eID authenticatie.&#xA;Op basis van resultaten servicedesign, hoogstwaarschijnlijk niet haalbaar voor merendeel van de instromende klanten.">
       <bounds
           x="180"
-          y="7"
+          y="12"
           width="185"
           height="120"/>
     </children>

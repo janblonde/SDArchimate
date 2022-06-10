@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impacts"
+    id="id-f7b83060556345bebebfc94c2d51f04a"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-6662ca6cccae4cbca70a453750187926.xml#id-6662ca6cccae4cbca70a453750187926"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-d5272fd4249147f499f95e4e5f08c824.xml#id-d5272fd4249147f499f95e4e5f08c824"/>
+</archimate:AssociationRelationship>
